@@ -7,8 +7,9 @@
 
 ## Работал в компании [akudinov.top](https://akudinov.top/) c Января 2023 по Январь 2024 года. 
 
-> За это время освоил базовые знания PHP, HTML, CSS, MySQL, WordPress,
-> Bitrix, было небольшое качание с JavaScript.
+> За это время освоил базовые знания _**PHP, HTML, CSS, MySQL, WordPress, Bitrix**_. 
+> 
+> Было небольшое касание с _JavaScript_.
 
 ### По [Bitrix](https://dev.1c-bitrix.ru/learning/resume.php?ID=89729574-6498692) получил сертификаты:
 
